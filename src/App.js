@@ -16,6 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
         Join our Telegram here
+        </a>
       </header>
     </div>
   );
