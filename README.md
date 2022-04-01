@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# A test app to infer a bit more about coding
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Excited for what is coming 
 
 ## Available Scripts
 
