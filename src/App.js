@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This is the main page.
+          Welcome To Medusa
         </p>
         <a
           className="App-link"
@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          This is boring as fuck
+         We believe we will be able to make an awesome app by coding it from scratch. Yes, learning everything in a week and launching the best token ever.
         </a>
       </header>
     </div>
